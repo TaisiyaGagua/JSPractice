@@ -1,0 +1,16 @@
+body {
+    margin: 0ch;
+    padding: 0ch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    background-color: lightpink;
+}
+
+p {
+    color:black;
+    font-size: 4rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
